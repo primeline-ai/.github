@@ -24,4 +24,4 @@ All tools are MIT licensed. All work with Claude Code out of the box.
 
 ---
 
-[primeline.cc](https://primeline.cc) | [@PrimeLineAI](https://x.com/PrimeLineAI)
+[primeline.cc](https://primeline.cc) | [@PrimeLineAI](https://x.com/PrimeLineAI) | [LinkedIn](https://www.linkedin.com/in/robinlorenz-ai/)

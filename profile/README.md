@@ -4,7 +4,7 @@ Open-source tools for Claude Code — from self-improving memory to multi-perspe
 
 ### Architecture
 
-![Architecture Overview](profile/architecture-overview.png)
+![Architecture Overview](https://raw.githubusercontent.com/primeline-ai/.github/main/profile/architecture-overview.png)
 
 ### The Ecosystem
 

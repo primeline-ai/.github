@@ -2,9 +2,9 @@
 
 Open-source tools for Claude Code — from self-improving memory to autonomous research loops. Each layer works independently. No hard dependencies. No lock-in. All MIT licensed.
 
-### Architecture
+### Overview
 
-![Architecture Overview](https://raw.githubusercontent.com/primeline-ai/.github/main/profile/architecture-overview.png)
+![PrimeLine AI Ecosystem](https://raw.githubusercontent.com/primeline-ai/.github/main/profile/ecosystem-overview.png)
 
 ### The Ecosystem
 
